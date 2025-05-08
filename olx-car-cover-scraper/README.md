@@ -19,7 +19,7 @@ A Python script that scrapes car cover listings from OLX India and saves the res
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/olx-car-cover-scraper.git
+git clone https://github.com/Pratoosh-18/AI-Engineer.git
 cd olx-car-cover-scraper
 ```
 

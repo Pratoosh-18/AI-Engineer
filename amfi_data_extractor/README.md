@@ -19,7 +19,7 @@ A shell script that extracts Scheme Name and Net Asset Value data from the AMFI 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/amfi-data-extractor.git
+git clone https://github.com/Pratoosh-18/AI-Engineer.git
 cd amfi-data-extractor
 ```
 
