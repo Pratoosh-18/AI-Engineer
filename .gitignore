@@ -1,0 +1,30 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Output files
+*.json
+*.csv
+*.tsv
+amfi_data_temp.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
